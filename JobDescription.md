@@ -13,7 +13,7 @@ Once the voting members are selected the NomCom chair is expected to initiate th
 
 After the NomCom completes the selection process for the open positions, the NomCom chair is expected to lead the NomCom to be proactively accountable to the confirming bodies. This entails the initiation of the confirmation process, that includes developing write ups that describes and motivates the NomCom’s selection process to the confirming bodies, in order to assist them in their decision making. 
 
-##Commitment
+## Commitment
 The role of the NomCom chair requires a fairly high time commitment and the workload varies significantly over the term of the appointment peaking between the second IETF of the year and starting to taper down after the end of the calendar year.
 
 Time commitment and the workload varies significantly over the term of the appointment with a minimum of a few hours per week peaking to 10-20 hours a week between the second IETF of the year and starting to taper down after the end of the calendar year. Around and during the 2nd IETF the commitment is close to full time.
